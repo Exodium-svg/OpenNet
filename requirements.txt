@@ -1,0 +1,10 @@
+external dependencies:
+gnu LD
+clangd i686
+nasm
+python 3.12
+--------------------------------
+visual studio code extensions:
+clangd
+nasm
+--------------------------------

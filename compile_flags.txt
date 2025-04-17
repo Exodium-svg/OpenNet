@@ -1,0 +1,14 @@
+-Iheader 
+-ffreestanding 
+-fno-stack-protector
+-nostdlib 
+-nostdinc
+-std=c23
+-Wall
+-Wextra
+-Werror
+-masm=intel
+-m16
+-fno-pic
+-mno-red-zone
+-Oz
